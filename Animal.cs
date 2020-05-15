@@ -47,7 +47,9 @@ namespace BLL
             this.AnimalType = animalTypePrm;
         }
         #endregion
-
+        public void GetWrecked(){
+        	
+        }
         #region Properties
         public int AnimalBreedingRate
         {
